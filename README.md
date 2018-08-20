@@ -10,8 +10,7 @@ npm i -g git+https://github.com/jourdanrodrigues/create-react-app.git
 
 ## Main Differences
 
-- New `.editorconfig` file in the template;
-- Environment setup reads `.env` file silently.
+- New `.editorconfig` file in the template.
 
 ## License
 
